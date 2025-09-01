@@ -1,0 +1,9 @@
+category_encoders==2.8.1
+joblib==1.5.2
+kagglehub==0.3.13
+matplotlib==3.10.6
+numpy==2.2.6
+pandas==2.3.2
+scikit-learn==1.7.1
+scipy==1.15.3
+seaborn==0.13.2
